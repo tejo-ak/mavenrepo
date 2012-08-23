@@ -4,5 +4,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jote.util</groupId>
   <artifactId>FusionChartv</artifactId>
-  <version>1.0.0.7</version>
+  <version>1.0.0.5</version>
 </project>
